@@ -1,0 +1,56 @@
+{
+    "askreddit":{
+        "Number of Comments":5,
+        "Read Post":false,
+        "Screenshot Comments":false,
+        "Screenshot Post":true,
+        "Length of Video":30,
+        "Splitable":false,
+        "Call to Action":true
+    },
+    "tifu":{
+        "Number of Comments":0,
+        "Read Post":true,
+        "Screenshot Comments":false,
+        "Screenshot Post":false,
+        "Length of Video":45,
+        "Splitable":true,
+        "Call to Action":false
+    },
+    "confession":{
+        "Number of Comments":0,
+        "Read Post":true,
+        "Screenshot Comments":false,
+        "Screenshot Post":false,
+        "Length of Video":45,
+        "Splitable":true,
+        "Call to Action":false
+    },
+    "amitheasshole":{
+        "Number of Comments":0,
+        "Read Post":true,
+        "Screenshot Comments":false,
+        "Screenshot Post":false,
+        "Length of Video":45,
+        "Splitable":true,
+        "Call to Action":false
+    },
+    "talesfromretail":{
+        "Number of Comments":0,
+        "Read Post":true,
+        "Screenshot Comments":false,
+        "Screenshot Post":false,
+        "Length of Video":45,
+        "Splitable":true,
+        "Call to Action":false
+    },
+    "explainlikeimfive":{
+        "Number of Comments":1,
+        "Read Post":false,
+        "Screenshot Comments":false,
+        "Screenshot Post":false,
+        "Length of Video":45,
+        "Splitable":true,
+        "Call to Action":false
+    }
+}

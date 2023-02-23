@@ -1,0 +1,16 @@
+venv/
+TEST DATA/
+.vscode/settings.json
+Background Files/backgroundvideo.mp4
+Background Files/backgroundvideovertical.mp4
+Config Files/passwords.json
+__pycache__/
+CookiesDir/asd.cookie
+daily tik tok.xlsx
+DALL·E 2023-02-10 12.39.00 - tik tok reddit snoo.png
+geckodriver.exe
+Make Tik Tok Python Files/videoEdit-old.py
+Test.py
+Make Tik Tok Python Files/edit test.py
+Make Tik Tok Python Files/reddit_tiktok-old.py
+Reddit-TikTok-Generator/
